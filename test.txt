@@ -1,6 +1,3 @@
-this is stuff testing out cat in powershell 
-for my 
-python book... Learn Python the Hard Way 
-c:\lpthw
-
-:-)
+this is line 1
+this is line 2
+that was line 3
